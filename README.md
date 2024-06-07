@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 오늘보다 내일 성장하는 사람 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> </li>😀앞으로 꾸준히 성장할 개발자입니다.<br>🤗하루 하나의 지식을 단단하게 만들고 있습니다.<br>🥰요즘은 티스토리에 빠져 티스토리에 기록하고 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> </li>😀앞으로 꾸준히 성장할 개발자입니다.<br>🤗하루 하나의 지식을 단단하게 만들고 있습니다.<br>🥰티스토리 포스팅을 하고 있습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
